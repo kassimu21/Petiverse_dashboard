@@ -5,4 +5,4 @@ Petiverse dashboard repo
 2. within the folder(how you know you're in the right folder is that you will see package.json and the .env files), run yarn install
 3. run npm start
 
-//node version as at the time of testing is version 18.12.0
+//node version as at the time of testing was version 18.12.0
